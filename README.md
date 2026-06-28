@@ -1,6 +1,6 @@
 # Hi 👋, I'm Suryabhan Patel
 
-🎓 B.Tech CSE Student @ Medi-Caps University (CGPA: 8.9)  
+🎓 B.Tech CSE Student @ Medi-Caps University (CGPA: 9.02)  
 💡 Passionate about AI, Machine Learning & Data Science  
 
 ---
